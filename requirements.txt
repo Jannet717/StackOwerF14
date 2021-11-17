@@ -1,0 +1,8 @@
+Django
+Psycopg2-binary
+Pillow
+Djangorestframework
+python-decouple
+django-phonenumber-field
+phonenumbers
+twilio
